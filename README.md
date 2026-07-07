@@ -14,7 +14,6 @@ I build and operate self-hosted AI workflows: Slack-based coding agents, MCP exp
 - [ai-shorts-pipeline](https://github.com/junghwan325-cyber/ai-shorts-pipeline) — secret-free template for recurring AI-assisted Shorts production pipelines.
 - [ai-game-mcp-lab](https://github.com/junghwan325-cyber/ai-game-mcp-lab) — secret-free lab for AI-assisted Blender and Godot game prototyping.
 - [OpenTag PR #4](https://github.com/CopilotKit/OpenTag/pull/4) — self-hosted smoke checklist and troubleshooting docs for a Slack AI agent project.
-- [briefings](https://github.com/junghwan325-cyber/briefings) — public briefing artifacts from automation experiments.
 
 ## Lab
 
